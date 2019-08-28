@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="WithReviewList" type="JSX Harmony" />
       <mapping pattern="byCouponId" type="PLAIN_TEXT" />
       <mapping pattern="run_support_site_updater.js" type="PLAIN_TEXT" />
       <mapping pattern="backward65536" type="PLAIN_TEXT" />
