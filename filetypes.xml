@@ -4,10 +4,10 @@
       <mapping pattern="WithReviewList" type="JSX Harmony" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="components" type="PLAIN_TEXT" />
       <mapping pattern="run_support_site_updater.js" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="components" type="PLAIN_TEXT" />
       <mapping pattern="backward65536" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="CookiePolicy" type="PLAIN_TEXT" />
